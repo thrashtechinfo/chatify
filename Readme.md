@@ -2,6 +2,9 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.6.
 
+# Want to Contribute ?
+follow these [Contribution Guidelines](https://github.com/thrashtechinfo/chatify/blob/main/Contributing.md)
+
 # Bootstrap
 > npm i bootstrap@latest
 > add this line in angular.json - "./node_modules/bootstrap/dist/css/bootstrap.css"
