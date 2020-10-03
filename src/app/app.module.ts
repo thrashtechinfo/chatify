@@ -1,3 +1,4 @@
+import { CoreModule } from './core/core.module';
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 
@@ -19,7 +20,8 @@ import { CardComponent } from './shared/card/card.component';
   imports: [
     BrowserModule,
     AppRoutingModule,
-    AuthModule
+    CoreModule,
+    AuthModule,
   ],
   providers: [],
   bootstrap: [AppComponent]
