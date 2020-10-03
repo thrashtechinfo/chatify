@@ -76,6 +76,20 @@ Thanks goes to these wonderful people:
           <sub>@Iiqbal2000</sub>
         </a>
       </td>
+      <td align="center">
+        <a href="https://github.com/puneetsaluja100" rel="nofollow">
+          <img src="https://avatars1.githubusercontent.com/u/23734712?s=460&v=4" width="100px;" alt="" style="max-width:100%; border-radius: 50%;"><br>
+          <sub><b>Puneet Saluja</b></sub><br>
+          <sub>@puneetsaluja100</sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/prateek1515" rel="nofollow">
+          <img src="https://avatars3.githubusercontent.com/u/56874791?s=460&v=4" width="100px;" alt="" style="max-width:100%; border-radius: 50%;"><br>
+          <sub><b>Prateek</b></sub><br>
+          <sub>@prateek1515</sub>
+        </a>
+      </td>
     </tr>
   </tbody>
 </table>
