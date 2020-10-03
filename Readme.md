@@ -2,21 +2,21 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.6.
 
-# Want to Contribute? ✨
+# 👉 Want to Contribute? ✨
 follow these [Contribution Guidelines](https://github.com/thrashtechinfo/chatify/blob/main/Contributing.md)
 
-# Bootstrap
+# 👉 Bootstrap
 > npm i bootstrap@latest
 > add this line in angular.json - "./node_modules/bootstrap/dist/css/bootstrap.css"
 
-# AngularFire
+# 👉 AngularFire
 - https://www.npmjs.com/package/@angular/fire
 > npm i --save firebase@5.0.3 @angular/fire@5.0.2
 
 1. https://github.com/AngularTemplates/angular-firebase-crud
 2. https://medium.com/slackernoon/crud-cheatsheet-for-firebase-and-angular-4846fce54e5a
 
-# How to update your forked repo with our parent repo:
+# 👉 How to update your forked repo with our parent repo:
 
 ## set Upstream with Parent:
 > git remote add upstream https://github.com/thrashtechinfo/chatify.git
@@ -30,7 +30,7 @@ follow these [Contribution Guidelines](https://github.com/thrashtechinfo/chatify
 ## push the updated got changes with your repo/branch
 > git push origin main
 
-# Angular CLI generate commands:
+# 👉 Angular CLI generate commands:
 
 ## Module Creation
 > ng g module auth --routing
@@ -41,7 +41,7 @@ follow these [Contribution Guidelines](https://github.com/thrashtechinfo/chatify
 ## Service Creation
 > ng g service auth
 
-# Contributors ✨
+# 👉 Contributors ✨
 
 Thanks goes to these wonderful people:
 
