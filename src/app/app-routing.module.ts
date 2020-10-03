@@ -11,6 +11,10 @@ const routes: Routes = [
     loadChildren: () => import('./components/auth/auth.module').then(m => m.AuthModule)
   },
   {
+    path: 'chat',
+    loadChildren: () => import('./components/chat/chat.module').then(m => m.ChatModule)
+  },
+  {
     path: '**',
     redirectTo: '404',
     pathMatch: 'full'

@@ -1,0 +1,19 @@
+
+<div class="container">
+
+  <div class="row">
+    <input [(ngModel)]="seachQuery" (ngModelChange)="filterUsersList($event)"  type="text" placeholder="Search" aria-label="Search">
+  </div>
+
+  <div *ngFor="let user of UsersList;index as i" class="row justify-content-center pt-5">
+    <div class="col-12 col-md-4">
+       User Img
+    </div>
+    <div class="col-12 col-md-8">
+        <div class="row"> {{user.name}}</div>
+        <div class="row"> {{user.lastMsg}}</div>
+    </div>
+
+
+  </div>
+</div>
