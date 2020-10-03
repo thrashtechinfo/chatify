@@ -12,9 +12,14 @@ export class AppComponent implements OnInit {
   constructor(private userService: UserService) {}
 
   ngOnInit(): void {
-    this.userService.getLoggedInUserInfo()
-      .subscribe(data => {
-        console.log(data);
-      });
+
+    this.userService.getLoggedInUserInfo().subscribe(data => {
+      console.log(data);
+    });
+
+    this.userService.getAllFirebaseUsers().subscribe(firebaseUsers => {
+      console.log(firebaseUsers);
+    });
+
   }
 }
