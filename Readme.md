@@ -19,3 +19,12 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## push the updated got changes with your repo/branch
 > git push origin main
+
+# Module Creation
+> ng g module auth --routing
+
+# Component Creation
+> ng g component auth
+
+# Service Creation
+> ng g service auth
