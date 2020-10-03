@@ -52,7 +52,22 @@ By contributing, you agree that your contributions will be for @thrashtechinfo.
 ## References
 This document was adapted from the open-source contribution guidelines for [Facebook's Draft](https://github.com/facebook/draft-js/blob/a9316a723f9e918afde44dea68b5f9f39b7d9b00/CONTRIBUTING.md)
 
-## Contributors
+## Contributors ✨
+
+Thanks goes to these wonderful people:
+
+<table>
+  <tbody><tr>
+      <td align="center">
+        <a href="https://github.com/thrashtechinfo" rel="nofollow">
+          <img src="https://avatars2.githubusercontent.com/u/72252901?s=460&u=615081a4b9a97dfe658e50a2c5b4572279e0b6f1&v=4" width="100px;" alt="" style="max-width:100%;"><br>
+          <sub><b>Thrashtech Solutions</b></sub>
+          <sub>@thrashtechinfo</sub>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 [Thrashtech Admin](https://github.com/thrashtechinfo)
 [Muhammad Awais](https://github.com/muhammadawaisshaikh)
