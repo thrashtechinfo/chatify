@@ -1,8 +1,8 @@
-# Chatify - Opensource chat app built with angular and firebase
+# 💬 Chatify - Opensource chat app built with angular and firebase 🔥
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.6.
 
-# Want to Contribute ?
+# Want to Contribute? ✨
 follow these [Contribution Guidelines](https://github.com/thrashtechinfo/chatify/blob/main/Contributing.md)
 
 # Bootstrap
