@@ -6,12 +6,14 @@ import {
   HttpInterceptor
 } from '@angular/common/http';
 import { Observable } from 'rxjs';
-import { ConfigService } from './config.service';
+import { ConfigService } from '../config/config.service';
 
 @Injectable()
 export class TokenInterceptor implements HttpInterceptor {
 
-  constructor(private configService: ConfigService) { }
+  constructor(
+    private configService: ConfigService
+  ) { }
 
   intercept(request: HttpRequest<unknown>, next: HttpHandler): Observable<HttpEvent<unknown>> {
     request = request.clone({
@@ -21,6 +23,7 @@ export class TokenInterceptor implements HttpInterceptor {
         Authorization: `Bearer ${this.configService.getAuthToken()}`,
       },
     });
+    
     return next.handle(request);
   }
 }
